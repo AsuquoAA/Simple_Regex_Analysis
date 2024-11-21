@@ -31,3 +31,10 @@ Navigate to project directory
 
 ## Dataset
 1. <a href="https://github.com/Lazycodes/Simple_Regex_Analysis/blob/main/grades.txt">grades.txt</a>
+2. <a href="https://github.com/Lazycodes/Simple_Regex_Analysis/blob/main/logdata.txt">logdata.txt</a>
+
+## Testing
+Each part of the project has been tested to ensure the correctness of the solutions. The tests check the number of results returned and verify that specific entries appear in the output.
+
+## Acknowledgments
+Special thanks to the University of Michigan's Introduction to Applied Data Science course for providing foundational learning and inspiration for this repository.
