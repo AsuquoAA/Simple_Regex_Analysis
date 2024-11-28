@@ -23,15 +23,15 @@ Ensure that you have the following installed:
 
 ## Installation
 Clone the repository to your local machine:
-- code: git clone https://github.com/Lazycodes/Simple_Regex_Analysis.git
+- code: git clone https://github.com/AsuquoAA/Simple_Regex_Analysis.git
 Navigate to project directory
 - code: cd Simple_Regex_Analysis
 
 ---
 
 ## Dataset
-1. <a href="https://github.com/Lazycodes/Simple_Regex_Analysis/blob/main/grades.txt">grades.txt</a>
-2. <a href="https://github.com/Lazycodes/Simple_Regex_Analysis/blob/main/logdata.txt">logdata.txt</a>
+1. <a href="https://github.com/AsuquoAA/Simple_Regex_Analysis/blob/main/grades.txt">grades.txt</a>
+2. <a href="https://github.com/AsuquoAA/Simple_Regex_Analysis/blob/main/logdata.txt">logdata.txt</a>
 
 ## Testing
 Each part of the project has been tested to ensure the correctness of the solutions. The tests check the number of results returned and verify that specific entries appear in the output.
